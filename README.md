@@ -1,6 +1,20 @@
-<h1 align="center">Hi there, I'm Ignat</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Backend developer from Russia 🇷🇺</h3>
-<p align="center">Skills: Python / Django / Django REST framework / Docker / HTML / CSS</p>
-<p align="center">My email: ignatdan777@gmail.com</p>
-<p align="center">My Telegram: @IgnatDan</p>
+### Привет! Я Игнат 👋 
+
+Я Backend-разработчик (Python) с фокусом на создание надежных REST API, работу с тяжелыми базами данных и внедрение AI-инструментов в бизнес-процессы. 
+
+Сейчас я развиваю собственный стартап Goods & Hands и создаю автоматизированные решения на стыке Python, Celery и LLM.
+
+**🛠 Мой стек:**
+* **Бэкенд:** Python, Django, FastAPI, Django REST Framework
+* **Базы данных & Брокеры:** PostgreSQL, Redis, Celery
+* **Инфраструктура:** Docker, Nginx, CI/CD, Linux
+* **Фронтенд (базово):** JavaScript, Vue.js, React
+
+**🚀 Чем я горжусь:**
+* С нуля спроектировал и запустил маркетплейс, увеличив органический трафик на 800% за счет технического SEO и AI-генерации.
+* Контрибьючу в Open Source: разработал официальное расширение DropsTab для Raycast (TypeScript, React, API).
+* Оптимизировал SQL-запросы в высоконагруженных крипто-агрегаторах, ускорив отдачу данных до 10 раз.
+
+**📫 Как со мной связаться:**
+* Telegram: [@IgnatDan](https://t.me/IgnatDan)
+* LinkedIn: [Твоя ссылка]
