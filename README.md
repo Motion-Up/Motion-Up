@@ -17,4 +17,4 @@
 
 **📫 Как со мной связаться:**
 * Telegram: [@IgnatDan](https://t.me/IgnatDan)
-* LinkedIn: [Твоя ссылка]
+* LinkedIn: https://www.linkedin.com/in/ignat-danilov-06371b214/
